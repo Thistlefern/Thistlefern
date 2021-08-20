@@ -1,5 +1,7 @@
 // Hi, I'm @Thistlefern!
 
+// My real name is Josie DeRosier, though.
+
 // I love games, and am learning to be a video game programmer.
 
 // I'd like to make games a that tell a good story.
