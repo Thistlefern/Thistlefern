@@ -8,7 +8,7 @@
 
 // My favorite genre of games is survival crafting, but my favorite game story-wise is Portal 2.
 
-// I'm just here to store my school code, currentl, but maybe someday I'll be open to collaborating on bigger projects!
+// I'm just here to store my school code, currently, but maybe someday I'll be open to collaborating on bigger projects!
 
 <!---
 Thistlefern/Thistlefern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
